@@ -1,0 +1,2 @@
+BufferedWriter writes faster and efficiently
+character stream example.
